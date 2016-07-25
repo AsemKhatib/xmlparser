@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<LabelList>
+	<Labels>
+		<Label>
+			<ID>615000392</ID>
+			<Labelcode>12025</Labelcode>
+			<Labelname>BOLD</Labelname>
+			<Labelshortname/>
+			<GvlMandant>X-0001</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615001564</ID>
+			<Labelcode>10843</Labelcode>
+			<Labelname>KOCH MUSIC</Labelname>
+			<Labelshortname/>
+			<GvlMandant>D-0008</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615011585</ID>
+			<Labelcode>00162</Labelcode>
+			<Labelname>COLUMBIA</Labelname>
+			<Labelshortname>COL</Labelshortname>
+			<GvlMandant>D-0001</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+				<UseLimit>R1</UseLimit>
+				<UseLimit>R2</UseLimit>
+				<UseLimit>R8</UseLimit>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615000008</ID>
+			<Labelcode>12371</Labelcode>
+			<Labelname>RAYMOND RECORDS</Labelname>
+			<Labelshortname/>
+			<GvlMandant>X-0308</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615000035</ID>
+			<Labelcode>12383</Labelcode>
+			<Labelname>DARK NOIZE RECORDINGS</Labelname>
+			<Labelshortname/>
+			<GvlMandant>F-7385</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615000043</ID>
+			<Labelcode>12260</Labelcode>
+			<Labelname>material records</Labelname>
+			<Labelshortname>MRE</Labelshortname>
+			<GvlMandant>X-0305</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615000109</ID>
+			<Labelcode>12323</Labelcode>
+			<Labelname>ENDLESS RECORDS</Labelname>
+			<Labelshortname/>
+			<GvlMandant>F-5166</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615286848</ID>
+			<Labelcode>50914</Labelcode>
+			<Labelname>Chappell Grand Stage</Labelname>
+			<Labelshortname>CGS</Labelshortname>
+			<GvlMandant>E-0595</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615285988</ID>
+			<Labelcode>50605</Labelcode>
+			<Labelname>Up and Away Records</Labelname>
+			<Labelshortname/>
+			<GvlMandant>E-0594</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+		<Label>
+			<ID>615285723</ID>
+			<Labelcode>50516</Labelcode>
+			<Labelname>CMS Grazy Monkey records &amp; entertainment</Labelname>
+			<Labelshortname/>
+			<GvlMandant>F11246</GvlMandant>
+			<MusikHerkunft>VTON</MusikHerkunft>
+			<GvlUseLimits>
+			</GvlUseLimits>
+		</Label>
+	</Labels>
+</LabelList>

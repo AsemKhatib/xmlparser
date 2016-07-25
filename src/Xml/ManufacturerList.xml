@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<ManufacturerList>
+	<Manufacturers>
+		<Manufacturer>
+			<GvlCode>X-0001</GvlCode>
+			<Name1>Subs. Rechteverwaltung</Name1>
+			<Name2/>
+			<Name3/>
+			<Street/>
+			<CountryCode/>
+			<Zip/>
+			<Location/>
+			<Postbox/>
+			<Phone/>
+			<Fax/>
+			<IfpiAccount>60097</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>D-0008</GvlCode>
+			<Name1>Universal Music Entertainment GmbH</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Stralauer Allee 1</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>10245</Zip>
+			<Location>Berlin</Location>
+			<Postbox>30 03 29  </Postbox>
+			<Phone>+49 (30) 52007-0</Phone>
+			<Fax>+49 (30) 52007-320</Fax>
+			<IfpiAccount>60160</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>D-0001</GvlCode>
+			<Name1>Sony Music Entertainment Germany GmbH</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Balanstr. 73</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>81541</Zip>
+			<Location>M&#xFC;nchen</Location>
+			<Postbox>80 01 49  </Postbox>
+			<Phone>+49 (89) 540222-0</Phone>
+			<Fax>+49 (89) 540222-9001</Fax>
+			<IfpiAccount>60002</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>X-0308</GvlCode>
+			<Name1>Joannis Sykora</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Baumgasse 29-41/27/8</Street>
+			<CountryCode>AUT</CountryCode>
+			<Zip>1030</Zip>
+			<Location>Wien</Location>
+			<Postbox>          </Postbox>
+			<Phone>+43 (676)  3509717</Phone>
+			<Fax>+43 (2742) 269 29</Fax>
+			<IfpiAccount>86063</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>F-7385</GvlCode>
+			<Name1>Ursula Polzer</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Kirchgasse 12a</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>63674</Zip>
+			<Location>Altenstadt</Location>
+			<Postbox>          </Postbox>
+			<Phone>+49 (69)58604737</Phone>
+			<Fax>+49 (69) 95776680</Fax>
+			<IfpiAccount>75734</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>X-0305</GvlCode>
+			<Name1>Wolfgang Muthspiel</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Schleifm&#xFC;hlgasse 1a/18</Street>
+			<CountryCode>AUT</CountryCode>
+			<Zip>1040</Zip>
+			<Location>Wien</Location>
+			<Postbox>          </Postbox>
+			<Phone>+43 (650) 9410903</Phone>
+			<Fax/>
+			<IfpiAccount>86060</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>F-5166</GvlCode>
+			<Name1>Kristina Dickel</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Klein Goldberg 84</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>40822</Zip>
+			<Location>Mettmann</Location>
+			<Postbox>          </Postbox>
+			<Phone>+49 (2104) 3015338</Phone>
+			<Fax/>
+			<IfpiAccount>72846</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>E-0595</GvlCode>
+			<Name1>Universal Publishing Production Music</Name1>
+			<Name2>GmbH</Name2>
+			<Name3/>
+			<Street>Stralauer Allee 1</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>10245</Zip>
+			<Location>Berlin</Location>
+			<Postbox>          </Postbox>
+			<Phone>+49 (30) 520072080</Phone>
+			<Fax>+49 (30) 5200732080</Fax>
+			<IfpiAccount>81947</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>E-0594</GvlCode>
+			<Name1>Countdown Media GmbH</Name1>
+			<Name2/>
+			<Name3/>
+			<Street>Wichmannstr. 4, Haus 10 S&#xFC;d</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>22607</Zip>
+			<Location>Hamburg</Location>
+			<Postbox>          </Postbox>
+			<Phone>+49 (40) 822986-0</Phone>
+			<Fax>+49 (40) 822986-66</Fax>
+			<IfpiAccount>77198</IfpiAccount>
+		</Manufacturer>
+		<Manufacturer>
+			<GvlCode>F11246</GvlCode>
+			<Name1>CMS Crazy Monkey records &amp;</Name1>
+			<Name2>entertainment UG (haftungsbeschr&#xE4;nkt)</Name2>
+			<Name3/>
+			<Street>Bergedorferstr. 28</Street>
+			<CountryCode>DEU</CountryCode>
+			<Zip>21502</Zip>
+			<Location>Geesthacht</Location>
+			<Postbox/>
+			<Phone/>
+			<Fax/>
+			<IfpiAccount>60996</IfpiAccount>
+		</Manufacturer>
+	</Manufacturers>
+</ManufacturerList>
